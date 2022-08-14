@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karikari
-- 👀 I’m interested in web developments, AI/ML, Programming and new technologies
-- 🌱 I’m currently learning Python, CSS and JavaScript
+- 👀 I’m interested in web development and new technologies
+- 🌱 I’m currently learning Python, Tailwind and JavaScript
 - 💞️ I’m looking to collaborate on Web Development projects 
 - 📫 How to reach me ...
 
